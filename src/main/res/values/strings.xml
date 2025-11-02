@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Internet Shutdown Tracker</string>
+    <string name="monitoring_notification_title">Internet Shutdown Monitoring</string>
+    <string name="monitoring_notification_content">Monitoring internet connectivity for shutdown detection</string>
+    <string name="shutdown_detected_title">Internet Shutdown Detected</string>
+    <string name="shutdown_detected_content">Tap to confirm or deny this shutdown report</string>
+    <string name="permission_location_title">Location Permission Required</string>
+    <string name="permission_location_message">This app needs location access to aggregate shutdown reports by district</string>
+    <string name="permission_notification_title">Notification Permission Required</string>
+    <string name="permission_notification_message">This app needs notification permission to alert you about suspected shutdowns</string>
+</resources>
